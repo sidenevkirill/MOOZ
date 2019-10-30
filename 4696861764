@@ -25,8 +25,7 @@
     "type": "user"
   },
   "type": "playlist",
-  "tracks": {
-   "art": [
+     "art": [
     {
       "id": 4696861764,
       "title": "Art",
@@ -182,6 +181,7 @@
       "type": "playlist"
     }
   ],
+  "tracks": {
     "data": [
       {
         "id": "tracks",
