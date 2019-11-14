@@ -13,7 +13,7 @@
 "id_category":"2",
 "id_playlist":"2",
 "name_song":"Tanir, Tyomcha",
-"image_song":"https://cdn51.zvooq.com/pic?type=release&id=9324512&size=50x50&ext=jpg",
+"image_song":"https://s.mxmcdn.net/images-storage/albums4/6/1/1/0/7/4/45470116_500_500.jpg",
 "singer_song":"Da Da Da",
 "link_song":"https://hitmo.org/get/music/20190902/muzlome_Tanir_Tyomcha_-_Da_Da_Da_66384585.mp3"},
 
