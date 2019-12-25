@@ -5,7 +5,7 @@
 "name_song":"Zivert",
 "image_song":"https://i1.sndcdn.com/artworks-000536328417-wg4psy-t500x500.jpg",
 "singer_song":"Credo",
-"link_song":"https://muzlo.me/get/music/20190927/muzlome_Zivert_-_Credo_66751495.mp3"},
+"link_song":"https://cs1-76v4.vkuseraudio.net/p12/76db53964ef71b.mp3?extra=QQkFiFaJR3dPlmH3gRcoSPH6wx_Q5-6beWura0UNFc27bsU39dTguvf0X4I_Q7ZQ4ivwaWSgbz2VXGMdJ_ZkpTnhg9y5ELrsBRz9PKZ2-1y2sQwELAwc00AemvRBwG_DKrnH5fVbQvBlJSITQohfuxdqSg"},
 
 {
 "id_song":"2",
