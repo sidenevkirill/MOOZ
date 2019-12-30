@@ -3,9 +3,9 @@
 {
 "id_song":"1",
 "name_song":"MORGENSHTERN",
-"image_song":"https://i1.sndcdn.com/artworks-000536328417-wg4psy-t500x500.jpg",
+"image_song":"https://sun1-18.userapi.com/c855036/v855036882/1aaa48/0cFqJKGA14w.jpg",
 "singer_song":"Yung Hefner",
-"link_song":"https://sun1-18.userapi.com/c855036/v855036882/1aaa48/0cFqJKGA14w.jpg"},
+"link_song":"https://cs1-50v4.vkuseraudio.net/p22/229aadbbed8894.mp3?extra=ogMT6jkJyNHZBPROjBn3E5EDynoZKuRWAYLehI8maHP2xAe5nSivtLkDDUmsyVBfzg-7xTsniaG6TuZdyO80J2ajldUbDTdQO3AsBG6NcC_XCdHxrTt0FnM7ZJOAIw6i7haZXSLXh4sk5nBVPqGsWpcPxmSt"},
 
 {
 "id_song":"2",
