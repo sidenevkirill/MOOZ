@@ -2,10 +2,10 @@
   "data": [
     {
       "id": 4696861764,
-      "title": "Karmageddon",
+      "title": "Джизус",
       "public": true,
       "nb_tracks": 21,
-      "link": "https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/master/4696861764",
+      "link": "https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/master/11",
       "picture": "https://api.deezer.com/playlist/4696861764/image",
       "picture_small": "https://e-cdns-images.dzcdn.net/images/cover/a083b5e2c956b2f6d4c0431f5a6bdb59/528x528-000000-80-0-0.jpg",
       "picture_medium": "https://e-cdns-images.dzcdn.net/images/cover/a083b5e2c956b2f6d4c0431f5a6bdb59/528x528-000000-80-0-0.jpg",
@@ -16,7 +16,7 @@
       "creation_date": "2018-07-23 13:50:03",
       "user": {
         "id": 1990304482,
-        "name": "Русские хиты FM",
+        "name": "НАЧАЛО НОВОЙ ЭРЫ",
         "tracklist": "https://api.deezer.com/user/1990304482/flow",
         "type": "user"
       },
@@ -24,7 +24,7 @@
     },
     {
       "id": 1819888242,
-      "title": "Нурминский",
+      "title": "kizaru",
       "public": true,
       "nb_tracks": 86,
       "link": "https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/master/4696861764",
@@ -38,7 +38,7 @@
       "creation_date": "2016-05-13 10:03:06",
       "user": {
         "id": 198225115,
-        "name": "Пацаны с улиц",
+        "name": "Karmageddon",
         "tracklist": "https://api.deezer.com/user/198225115/flow",
         "type": "user"
       },
