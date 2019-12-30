@@ -45,11 +45,11 @@
       "type": "playlist"
     },
     {
-      "id": 3273007826,
+      "id": kizaru,
       "title": "Zivert",
       "public": true,
       "nb_tracks": 91,
-      "link": "https://www.deezer.com/playlist/3273007826",
+      "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/kizaru",
       "picture": "https://api.deezer.com/playlist/3273007826/image",
       "picture_small": "https://e-cdns-images.dzcdn.net/images/cover/6ccada70182ffaefca8e37ddbda19e13/528x528-000000-80-0-0.jpg",
       "picture_medium": "https://e-cdns-images.dzcdn.net/images/cover/6ccada70182ffaefca8e37ddbda19e13/528x528-000000-80-0-0.jpg",
