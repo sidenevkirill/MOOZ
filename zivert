@@ -11,10 +11,10 @@
   "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/limba",
   "share": "https://www.deezer.com/playlist/4696861764?utm_source=deezer&utm_content=playlist-4696861764&utm_term=0_1569846384&utm_medium=web",
   "picture": "https://api.deezer.com/playlist/4696861764/image",
-  "picture_small": "https://sun9-61.userapi.com/c852020/v852020452/1f4912/DuA1EqqusKo.jpg",
-  "picture_medium": "https://sun9-61.userapi.com/c852020/v852020452/1f4912/DuA1EqqusKo.jpg",
-  "picture_big": "https://sun9-61.userapi.com/c852020/v852020452/1f4912/DuA1EqqusKo.jpg",
-  "picture_xl": "https://sun9-61.userapi.com/c852020/v852020452/1f4912/DuA1EqqusKo.jpg",
+  "picture_small": "https://sun9-25.userapi.com/c855728/v855728881/cc4f0/q9o8JFXVpNk.jpg",
+  "picture_medium": "https://sun9-25.userapi.com/c855728/v855728881/cc4f0/q9o8JFXVpNk.jpg",
+  "picture_big": "https://sun9-25.userapi.com/c855728/v855728881/cc4f0/q9o8JFXVpNk.jpg",
+  "picture_xl": "https://sun9-25.userapi.com/c855728/v855728881/cc4f0/q9o8JFXVpNk.jpg",
   "checksum": "f5a00d10be398f6fab7f269f0ba0b3d8",
   "tracklist": "https://api.deezer.com/playlist/4696861764/tracks",
   "creation_date": "2018-07-23 13:50:03",
@@ -30,7 +30,7 @@
       {
         "id": "tracks",
         "readable": true,
-        "title": "СКАНДАЛ",
+        "title": "Безболезненно",
         "title_short": "Я не хочу стать твоим кумиром",
         "title_version": "",
         "link": "https://cs1-59v4.vkuseraudio.net/p22/6f9c4731ff38d4.mp3?extra=N_IAk1QbQkuNENGUpOExT7RZ3Bth0X0sNmH4stJb6BKrPjOESud7V7ZSUKJPePzT4Gs6GV6_3MHAdNi9YrMWTOALCMKVoJihvTrQ-o7l4p52o6CLdu9xaBGNXOBUL_sMmw4L3fk4J2EPM1MDB2ldG4aMMvI",
@@ -64,7 +64,7 @@
       {
         "id": "12209331",
         "readable": true,
-        "title": "ПАПА",
+        "title": "Beverly Hills",
         "title_short": "Top Dog",
         "title_version": "",
         "link": "https://cs1-40v4.vkuseraudio.net/p1/c714fb3e1fe704.mp3?extra=Kqkqa_clxOq1TnfaxqVm0ln_AV0Ch-_AHu8xPnGsSwXRAfMU31CRS7b3NC6hjoom-Ve5DLq1hU1CR22U2cAxmv43sE6MjMkk256BS5nJrbV7wCw9ZHSpf_5T31dC4EsU9GXaOBYaH3wfLxOi5Qa_PM8Yleih",
@@ -98,7 +98,7 @@
       {
         "id": "12274805",
         "readable": true,
-        "title": "СИНИЕ ФИАЛКИ",
+        "title": "Двусмысленно",
         "title_short": "We Are The Champions",
         "title_version": "",
         "link": "https://cs1-73v4.vkuseraudio.net/p16/4eeb82a8f2e2d8.mp3?extra=vTmouY2aLCe6f2OmtqPFAVey3G1TbGH6OxsIl7TV9uFyRDpXM2Ze98l8cgd9E3EgD_5PFDyt19zSxFdRpN0JEKoDZdC8YFr_-0efp7oZvUiMvSklb-089lwQ-5rfn1_H3CWv1XRWlmcbvwtIOpv4X1fS5Wmz",
@@ -132,7 +132,7 @@
       {
         "id": "13459069",
         "readable": true,
-        "title": "ХИНДИ",
+        "title": "Fly",
         "title_short": "ХИНДИ",
         "title_version": "",
         "link": "https://cs1-39v4.vkuseraudio.net/p3/47fa8d5e99bed0.mp3?extra=XEb3xVVQgCn4LhYb3v1h0SRzVZluZE9H1-ohj7x92wlsIU93-1LpADcA_QzxrDHyqOFnl09T3hhvJY2uQOG7aCPC7_CZp9dL4pm5yWFFy59EesTVCfNRAgrs_M2O9aZdMexypFRbPQi8flWWUonHcDSU8G2G",
@@ -166,7 +166,7 @@
        {
         "id": "13459769",
         "readable": true,
-        "title": "ИНТЕРЕС",
+        "title": "Бродяга-дождь",
         "title_short": "ИНТЕРЕС",
         "title_version": "",
         "link": "https://cs1-39v4.vkuseraudio.net/p3/47fa8d5e99bed0.mp3?extra=XEb3xVVQgCn4LhYb3v1h0SRzVZluZE9H1-ohj7x92wlsIU93-1LpADcA_QzxrDHyqOFnl09T3hhvJY2uQOG7aCPC7_CZp9dL4pm5yWFFy59EesTVCfNRAgrs_M2O9aZdMexypFRbPQi8flWWUonHcDSU8G2G",
@@ -200,7 +200,7 @@
        {
         "id": "13469069",
         "readable": true,
-        "title": "СМУЗИ",
+        "title": "Credo",
         "title_short": "СМУЗИ",
         "title_version": "",
         "link": "https://cs1-39v4.vkuseraudio.net/p3/47fa8d5e99bed0.mp3?extra=XEb3xVVQgCn4LhYb3v1h0SRzVZluZE9H1-ohj7x92wlsIU93-1LpADcA_QzxrDHyqOFnl09T3hhvJY2uQOG7aCPC7_CZp9dL4pm5yWFFy59EesTVCfNRAgrs_M2O9aZdMexypFRbPQi8flWWUonHcDSU8G2G",
@@ -234,7 +234,7 @@
        {
         "id": "13459779",
         "readable": true,
-        "title": "ЯД",
+        "title": "Шарик",
         "title_short": "ЯД",
         "title_version": "",
         "link": "https://cs1-39v4.vkuseraudio.net/p3/47fa8d5e99bed0.mp3?extra=XEb3xVVQgCn4LhYb3v1h0SRzVZluZE9H1-ohj7x92wlsIU93-1LpADcA_QzxrDHyqOFnl09T3hhvJY2uQOG7aCPC7_CZp9dL4pm5yWFFy59EesTVCfNRAgrs_M2O9aZdMexypFRbPQi8flWWUonHcDSU8G2G",
@@ -268,7 +268,7 @@
       {
         "id": "9997015",
         "readable": true,
-        "title": "НОЧЬЮ В ОТЕЛЕ",
+        "title": "Life",
         "title_short": "НОЧЬЮ В ОТЕЛЕ",
         "title_version": "",
         "link": "https://cs1-77v4.vkuseraudio.net/p24/df95ee4de51624.mp3?extra=fBVhUAxQ9fgUjC_161z3aDzkUs0ixD-5QlBMltWdVmN7zg6wg5EdRKlp6r8htI3N9c3unPvCSefkuaS3MuUwMYFjgkFz5TNADAQSDQLZ0hrz4bPaOB1atutud4DJWIWv0GbCrZBZY3d_FlZgNpNuXi6ZIFQu",
