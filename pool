@@ -2,12 +2,12 @@
   "data": [
     {
       "id": kizaru,
-      "title": "TEST",
+      "title": "JACKBOYS",
       "public": true,
       "nb_tracks": 21,
       "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/kizaru",
       "picture": "https://api.deezer.com/playlist/4696861764/image",
-      "picture_small": "https://sun9-4.userapi.com/c855128/v855128662/19d487/I6uOVyfPoxc.jpg",
+      "picture_small": "https://e-cdns-images.dzcdn.net/images/cover/d1ed81aebe34697130d8caf2459e0d72/264x264-000000-80-0-0.jpg",
       "picture_medium": "https://sun9-4.userapi.com/c855128/v855128662/19d487/I6uOVyfPoxc.jpg",
       "picture_big": "https://sun9-4.userapi.com/c855128/v855128662/19d487/I6uOVyfPoxc.jpg",
       "picture_xl": "https://sun9-4.userapi.com/c855128/v855128662/19d487/I6uOVyfPoxc.jpg",
@@ -16,7 +16,7 @@
       "creation_date": "2018-07-23 13:50:03",
       "user": {
         "id": 1990304482,
-        "name": "kizaru",
+        "name": "JACKBOYS",
         "tracklist": "https://api.deezer.com/user/1990304482/flow",
         "type": "user"
       },
