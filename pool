@@ -24,13 +24,13 @@
     },
     {
       "id": limba,
-      "title": "Я дома.",
+      "title": "k bye for now",
       "public": true,
       "nb_tracks": 86,
       "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/limba",
       "picture": "https://api.deezer.com/playlist/1819888242/image",
       "picture_small": "https://sun9-61.userapi.com/c852020/v852020452/1f4912/DuA1EqqusKo.jpg",
-      "picture_medium": "https://sun9-61.userapi.com/c852020/v852020452/1f4912/DuA1EqqusKo.jpg",
+      "picture_medium": "https://sun9-63.userapi.com/c854520/v854520923/1b1673/WihFstbHN5o.jpg",
       "picture_big": "https://sun9-61.userapi.com/c852020/v852020452/1f4912/DuA1EqqusKo.jpg",
       "picture_xl": "https://sun9-61.userapi.com/c852020/v852020452/1f4912/DuA1EqqusKo.jpg",
       "checksum": "b61c1daae00f0eebca8eb7204e10f757",
@@ -38,7 +38,7 @@
       "creation_date": "2016-05-13 10:03:06",
       "user": {
         "id": 198225115,
-        "name": "The Limba",
+        "name": "Ariana Grande",
         "tracklist": "https://api.deezer.com/user/198225115/flow",
         "type": "user"
       },
