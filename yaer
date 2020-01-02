@@ -82,7 +82,7 @@
       "creation_date": "2018-06-28 19:49:18",
       "user": {
         "id": 2011434546,
-        "name": "Feel Good Soul & Funk",
+        "name": "Feel Good Soul",
         "tracklist": "https://api.deezer.com/user/2011434546/flow",
         "type": "user"
       },
@@ -104,7 +104,7 @@
       "creation_date": "2018-11-06 09:24:23",
       "user": {
         "id": 1483650282,
-        "name": "Happy Acoustic & Folk",
+        "name": "Happy Acoustic",
         "tracklist": "https://api.deezer.com/user/1483650282/flow",
         "type": "user"
       },
