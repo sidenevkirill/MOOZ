@@ -68,7 +68,7 @@
     },
     {
       "id": zivert,
-      "title": "Vinyl #1",
+      "title": "71 трек",
       "public": true,
       "nb_tracks": 79,
       "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/zivert",
@@ -82,7 +82,7 @@
       "creation_date": "2018-06-28 19:49:18",
       "user": {
         "id": 2011434546,
-        "name": "Zivert",
+        "name": "Feel Good Soul & Funk",
         "tracklist": "https://api.deezer.com/user/2011434546/flow",
         "type": "user"
       },
@@ -90,7 +90,7 @@
     },
     {
       "id": GAYAZOV$,
-      "title": "Кредо",
+      "title": "60 треков",
       "public": true,
       "nb_tracks": 47,
       "link": "https://www.deezer.com/playlist/5072035764",
@@ -104,7 +104,7 @@
       "creation_date": "2018-11-06 09:24:23",
       "user": {
         "id": 1483650282,
-        "name": "GAYAZOV$ BROTHER$",
+        "name": "Happy Acoustic & Folk",
         "tracklist": "https://api.deezer.com/user/1483650282/flow",
         "type": "user"
       },
@@ -112,7 +112,7 @@
     },
     {
       "id": jony,
-      "title": "Список твоих мыслей",
+      "title": "101 трек",
       "public": true,
       "nb_tracks": 76,
       "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/jony",
@@ -126,7 +126,7 @@
       "creation_date": "2019-09-07 19:46:56",
       "user": {
         "id": 1324168704,
-        "name": "jony",
+        "name": "Chill Jazz",
         "tracklist": "https://api.deezer.com/user/1324168704/flow",
         "type": "user"
       },
@@ -134,7 +134,7 @@
     },
     {
       "id": nurminskiy,
-      "title": "Пацаны с улиц",
+      "title": "60 треков",
       "public": true,
       "nb_tracks": 68,
       "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/nurminskiy",
@@ -148,7 +148,7 @@
       "creation_date": "2016-12-17 16:27:44",
       "user": {
         "id": 365093555,
-        "name": "Нурминский",
+        "name": "Feel Good Alternative",
         "tracklist": "https://api.deezer.com/user/365093555/flow",
         "type": "user"
       },
