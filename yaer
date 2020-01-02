@@ -2,7 +2,7 @@
   "data": [
     {
       "id": kizaru,
-      "title": "year",
+      "title": "60 треков",
       "public": true,
       "nb_tracks": 21,
       "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/kizaru",
@@ -16,7 +16,7 @@
       "creation_date": "2018-07-23 13:50:03",
       "user": {
         "id": 1990304482,
-        "name": "JACKBOYS",
+        "name": "Happy Hits",
         "tracklist": "https://api.deezer.com/user/1990304482/flow",
         "type": "user"
       },
@@ -24,7 +24,7 @@
     },
     {
       "id": limba,
-      "title": "Я дома.",
+      "title": "50 треков",
       "public": true,
       "nb_tracks": 86,
       "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/limba",
@@ -38,7 +38,7 @@
       "creation_date": "2016-05-13 10:03:06",
       "user": {
         "id": 198225115,
-        "name": "The Limba",
+        "name": "Feel Good Dance",
         "tracklist": "https://api.deezer.com/user/198225115/flow",
         "type": "user"
       },
@@ -46,7 +46,7 @@
     },
     {
       "id": klavakoka,
-      "title": "Неприлично о личном",
+      "title": "70 треков",
       "public": true,
       "nb_tracks": 91,
       "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/klavakoka",
@@ -60,7 +60,7 @@
       "creation_date": "2017-06-19 13:02:27",
       "user": {
         "id": 198225115,
-        "name": "Клава Кока",
+        "name": "Relaxation",
         "tracklist": "https://api.deezer.com/user/198225115/flow",
         "type": "user"
       },
