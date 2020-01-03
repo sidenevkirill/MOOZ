@@ -67,11 +67,11 @@
       "type": "playlist"
     },
     {
-      "id": zivert,
+      "id": basta,
       "title": "Так и живьём",
       "public": true,
       "nb_tracks": 79,
-      "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/zivert",
+      "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/basta",
       "picture": "https://api.deezer.com/playlist/4615243408/image",
       "picture_small": "https://sun9-25.userapi.com/c855728/v855728881/cc4f0/q9o8JFXVpNk.jpg",
       "picture_medium": "https://sun9-6.userapi.com/c856036/v856036000/1b63ee/8Kytd-YEqLk.jpg",
