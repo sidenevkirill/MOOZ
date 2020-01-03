@@ -45,11 +45,11 @@
       "type": "playlist"
     },
     {
-      "id": klavakoka,
+      "id": KAZKA,
       "title": "NIRVANA",
       "public": true,
       "nb_tracks": 91,
-      "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/klavakoka",
+      "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/KAZKA",
       "picture": "https://api.deezer.com/playlist/3273007826/image",
       "picture_small": "https://sun1-29.userapi.com/c858028/v858028678/e391f/HeHR5XgEf2g.jpg",
       "picture_medium": "https://sun1-14.userapi.com/c854216/v854216893/1addcd/qkpJDb75nx8.jpg",
