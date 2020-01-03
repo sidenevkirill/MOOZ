@@ -1,11 +1,11 @@
 {
   "data": [
     {
-      "id": kizaru,
+      "id": jackboys,
       "title": "JACKBOYS",
       "public": true,
       "nb_tracks": 21,
-      "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/kizaru",
+      "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/jackboys",
       "picture": "https://api.deezer.com/playlist/4696861764/image",
       "picture_small": "https://e-cdns-images.dzcdn.net/images/cover/d1ed81aebe34697130d8caf2459e0d72/264x264-000000-80-0-0.jpg",
       "picture_medium": "https://e-cdns-images.dzcdn.net/images/cover/d1ed81aebe34697130d8caf2459e0d72/264x264-000000-80-0-0.jpg",
