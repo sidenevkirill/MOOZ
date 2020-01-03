@@ -23,11 +23,11 @@
       "type": "playlist"
     },
     {
-      "id": limba,
+      "id": arianagrande,
       "title": "k bye for now",
       "public": true,
       "nb_tracks": 86,
-      "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/limba",
+      "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/arianagrande",
       "picture": "https://api.deezer.com/playlist/1819888242/image",
       "picture_small": "https://sun9-61.userapi.com/c852020/v852020452/1f4912/DuA1EqqusKo.jpg",
       "picture_medium": "https://sun9-63.userapi.com/c854520/v854520923/1b1673/WihFstbHN5o.jpg",
