@@ -111,11 +111,11 @@
       "type": "playlist"
     },
     {
-      "id": jony,
+      "id": darkie,
       "title": "THIS DOES NOT EXIST",
       "public": true,
       "nb_tracks": 76,
-      "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/jony",
+      "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/darkie",
       "picture": "https://api.deezer.com/playlist/6505893864/image",
       "picture_small": "https://sun1-88.userapi.com/c853628/v853628048/6234a/_1ibHYxuPHg.jpg",
       "picture_medium": "https://sun1-21.userapi.com/c857628/v857628651/134e5b/ehBBS8-QiK8.jpg",
@@ -137,7 +137,7 @@
       "title": "Спрут",
       "public": true,
       "nb_tracks": 68,
-      "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/nurminskiy",
+      "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/teppo",
       "picture": "https://api.deezer.com/playlist/2571495004/image",
       "picture_small": "https://cdn62.zvooq.com/pic?type=release&id=9686603&size=500x500&ext=jpg",
       "picture_medium": "https://sun9-63.userapi.com/c200524/v200524157/1bef/2yltlsZ4C9Q.jpg",
