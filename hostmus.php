@@ -5,7 +5,7 @@
 "name_song":"MORGENSHTERN",
 "image_song":"https://sun1-18.userapi.com/c855036/v855036882/1aaa48/0cFqJKGA14w.jpg",
 "singer_song":"Yung Hefner",
-"link_song":"https://cs1-50v4.vkuseraudio.net/p22/229aadbbed8894.mp3?extra=ogMT6jkJyNHZBPROjBn3E5EDynoZKuRWAYLehI8maHP2xAe5nSivtLkDDUmsyVBfzg-7xTsniaG6TuZdyO80J2ajldUbDTdQO3AsBG6NcC_XCdHxrTt0FnM7ZJOAIw6i7haZXSLXh4sk5nBVPqGsWpcPxmSt"},
+"link_song":"https://muzek.000webhostapp.com/Chart/MORGENSHTERN%20-%20Yung%20Hefner.mp3"},
 
 {
 "id_song":"2",
@@ -15,7 +15,7 @@
 "name_song":"Tanir, Tyomcha",
 "image_song":"https://s.mxmcdn.net/images-storage/albums4/6/1/1/0/7/4/45470116_500_500.jpg",
 "singer_song":"Da Da Da",
-"link_song":"https://hitmo.org/get/music/20190902/muzlome_Tanir_Tyomcha_-_Da_Da_Da_66384585.mp3"},
+"link_song":"https://muzek.000webhostapp.com/Chart/Tanir,%20Tyomcha%20-%20Da%20Da%20Da.mp3"},
 
 {
 "id_song":"3",
