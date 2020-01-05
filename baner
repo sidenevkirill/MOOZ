@@ -25,7 +25,7 @@
     },
     {
       "id": limba,
-      "title": "Рэп",
+      "title": "",
       "public": true,
       "nb_tracks": 2,
       "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/limba",
@@ -39,7 +39,7 @@
       "creation_date": "2016-05-13 10:03:06",
       "user": {
         "id": 198225115,
-        "name": "The Limba",
+        "name": "",
         "tracklist": "https://api.deezer.com/user/198225115/flow",
         "type": "user"
       },
