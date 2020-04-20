@@ -5,7 +5,7 @@
 "name_song":"MORGENSHTERN",
 "image_song":"https://sun1-18.userapi.com/c855036/v855036882/1aaa48/0cFqJKGA14w.jpg",
 "singer_song":"Yung Hefner",
-"link_song":"https://muzek.000webhostapp.com/Chart/MORGENSHTERN%20-%20Yung%20Hefner.mp3"},
+"link_song":"https://cs1-79v4.vkuseraudio.net/p13/f8bfc2baf901d4.mp3?extra=-g9Ldxi-LfUNY6WJti0mneHsDfVihZSO2KPYUxZJzICXKQq7OdQ2Lhi6t6cq7TTiN_zsTx9LqbdZPnY7UpZvRjJAKQzJmVUz79uRn69fuR2D7zBzkGc1DIcbFCLGeHHqoHCFZ0PkuCLVmPtNWRKD0A5c2Q"},
 
 {
 "id_song":"2",
