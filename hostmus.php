@@ -5,7 +5,7 @@
 "name_song":"MORGENSHTERN",
 "image_song":"https://sun1-18.userapi.com/c855036/v855036882/1aaa48/0cFqJKGA14w.jpg",
 "singer_song":"Yung Hefner",
-"link_song":"https://cs1-61v4.vkuseraudio.net/p17/6b431181739c94.mp3?extra=RnE5rfQ9jQZOUAEfZf2Zofs2XSvm3cwxG2KCI1T2RaPhpkV5hDz49o_Y-k8c4Gc2laO_CrTsTQJ7pUwuLr5Zt55TiWMgt9oj3NvLqoyw65XPrehzeptNzwdnCkY6iuDgHNqcOLumtz4w79jdj13ZFT0Sjw"},
+"link_song":"https://vasches.000webhostapp.com/pharaoh/PHARAOH%20-%20%D0%91%D0%B0%D0%BB%D0%BB%D0%B0%D0%B4%D0%B0.mp3"},
 
 {
 "id_song":"2",
@@ -15,7 +15,7 @@
 "name_song":"Tanir, Tyomcha",
 "image_song":"https://s.mxmcdn.net/images-storage/albums4/6/1/1/0/7/4/45470116_500_500.jpg",
 "singer_song":"Da Da Da",
-"link_song":"https://muzek.000webhostapp.com/Chart/Tanir,%20Tyomcha%20-%20Da%20Da%20Da.mp3"},
+"link_song":"https://vasches.000webhostapp.com/pharaoh/PHARAOH%20-%20%D0%97%D0%B0%20%D1%80%D0%B5%D1%88%D0%B5%CC%88%D1%82%D0%BA%D0%BE%D0%B8%CC%86.mp3"},
 
 {
 "id_song":"3",
@@ -25,7 +25,7 @@
 "name_song":"JONY",
 "image_song":"https://cdn62.zvooq.com/pic?type=release&id=9513393&size=50x50&ext=jpg",
 "singer_song":"Комета",
-"link_song":"https://muzlo.me/get/music/20190921/muzlome_JONY_-_Kometa_66671270.mp3"},
+"link_song":"https://vasches.000webhostapp.com/pharaoh/PHARAOH%20feat.%20Mnogoznaal%20-%20%D0%A1%D0%B5%D0%BC%D0%B5%D0%B8%CC%86%D0%BD%D1%8B%D0%B5%20%D1%83%D0%B7%D1%8B.mp3"},
 
 {
 "id_song":"4",
