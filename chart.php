@@ -3,7 +3,7 @@
 {
 "id_song":"1",
 "name_song":"MORGENSHTERN",
-"image_song":"https://sidenevkirill.github.io/MOOZ/icon/star.png",
+"image_song":"https://cdn41.zvooq.com/pic?type=release&id=10095922&size=126x126&ext=jpg",
 "singer_song":"Yung Hefner",
 "link_song":"https://cs1-61v4.vkuseraudio.net/p17/6b431181739c94.mp3?extra=RnE5rfQ9jQZOUAEfZf2Zofs2XSvm3cwxG2KCI1T2RaPhpkV5hDz49o_Y-k8c4Gc2laO_CrTsTQJ7pUwuLr5Zt55TiWMgt9oj3NvLqoyw65XPrehzeptNzwdnCkY6iuDgHNqcOLumtz4w79jdj13ZFT0Sjw"},
 
