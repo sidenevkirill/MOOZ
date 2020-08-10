@@ -4,7 +4,7 @@
 "id_song":"1",
 "name_song":"MORGENSHTERN",
 "image_song":"https://sun1-18.userapi.com/c855036/v855036882/1aaa48/0cFqJKGA14w.jpg",
-"top_song":"https://sun1-18.userapi.com/c855036/v855036882/1aaa48/0cFqJKGA14w.jpg",
+"top_song":"https://sidenevkirill.github.io/MOOZ/icon/star.png",
 "singer_song":"Yung Hefner",
 "link_song":"https://vasches.000webhostapp.com/pharaoh/PHARAOH%20-%20%D0%91%D0%B0%D0%BB%D0%BB%D0%B0%D0%B4%D0%B0.mp3"},
 
@@ -14,6 +14,7 @@
 "id_category":"2",
 "id_playlist":"2",
 "name_song":"Tanir, Tyomcha",
+"top_song":"https://sidenevkirill.github.io/MOOZ/icon/right.png",
 "image_song":"https://s.mxmcdn.net/images-storage/albums4/6/1/1/0/7/4/45470116_500_500.jpg",
 "singer_song":"Da Da Da",
 "link_song":"https://vasches.000webhostapp.com/pharaoh/PHARAOH%20-%20%D0%97%D0%B0%20%D1%80%D0%B5%D1%88%D0%B5%CC%88%D1%82%D0%BA%D0%BE%D0%B8%CC%86.mp3"},
