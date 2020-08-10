@@ -3,7 +3,7 @@
 {
 "id_song":"1",
 "name_song":"MORGENSHTERN",
-"image_song":"https://sun1-18.userapi.com/c855036/v855036882/1aaa48/0cFqJKGA14w.jpg",
+"image_song":"https://sidenevkirill.github.io/MOOZ/icon/star.png",
 "singer_song":"Yung Hefner",
 "link_song":"https://cs1-61v4.vkuseraudio.net/p17/6b431181739c94.mp3?extra=RnE5rfQ9jQZOUAEfZf2Zofs2XSvm3cwxG2KCI1T2RaPhpkV5hDz49o_Y-k8c4Gc2laO_CrTsTQJ7pUwuLr5Zt55TiWMgt9oj3NvLqoyw65XPrehzeptNzwdnCkY6iuDgHNqcOLumtz4w79jdj13ZFT0Sjw"},
 
@@ -13,6 +13,7 @@
 "id_category":"2",
 "id_playlist":"2",
 "name_song":"Tanir, Tyomcha",
+"image_song":"https://sidenevkirill.github.io/MOOZ/icon/right.png",
 "image_song":"https://s.mxmcdn.net/images-storage/albums4/6/1/1/0/7/4/45470116_500_500.jpg",
 "singer_song":"Da Da Da",
 "link_song":"https://muzek.000webhostapp.com/Chart/Tanir,%20Tyomcha%20-%20Da%20Da%20Da.mp3"},
