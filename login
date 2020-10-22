@@ -21,28 +21,6 @@
         "type": "user"
       },
       "type": "playlist"
-    },
-    {
-      "id": nurminskiy,
-      "title": "Недельный плейлист",
-      "public": true,
-      "nb_tracks": 68,
-      "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/nurminskiy",
-      "picture": "https://api.deezer.com/playlist/2571495004/image",
-      "picture_small": "https://sun9-42.userapi.com/impf/VtyIzwwR-HufkUhgfuWAggWK6vuFxUrCPCf8OQ/J1SN1b7hEZA.jpg?crop=0,0,1,1&size=0x96&quality=95&sign=f0273dd3c1554b5171cfbcb51f26e671",
-      "picture_medium": "https://sun9-42.userapi.com/impf/VtyIzwwR-HufkUhgfuWAggWK6vuFxUrCPCf8OQ/J1SN1b7hEZA.jpg?crop=0,0,1,1&size=0x96&quality=95&sign=f0273dd3c1554b5171cfbcb51f26e671",
-      "picture_big": "https://sun9-42.userapi.com/impf/VtyIzwwR-HufkUhgfuWAggWK6vuFxUrCPCf8OQ/J1SN1b7hEZA.jpg?crop=0,0,1,1&size=0x96&quality=95&sign=f0273dd3c1554b5171cfbcb51f26e671",
-      "picture_xl": "https://sun9-42.userapi.com/impf/VtyIzwwR-HufkUhgfuWAggWK6vuFxUrCPCf8OQ/J1SN1b7hEZA.jpg?crop=0,0,1,1&size=0x96&quality=95&sign=f0273dd3c1554b5171cfbcb51f26e671",
-      "checksum": "fa0d327611b57f535fa36e393629dd39",
-      "tracklist": "https://api.deezer.com/playlist/2571495004/tracks",
-      "creation_date": "2016-12-17 16:27:44",
-      "user": {
-        "id": 365093555,
-        "name": "Feel Good Alternative",
-        "tracklist": "https://api.deezer.com/user/365093555/flow",
-        "type": "user"
-      },
-      "type": "playlist"
     }
   ],
   "total": 300,
