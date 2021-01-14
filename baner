@@ -1,5 +1,29 @@
 {
   "data": [
+  {
+      "id": shazam,
+      "title": "Flowmastaz",
+      "name": "Новый куратор",
+      "public": true,
+      "nb_tracks": 1,
+      "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/shazam",
+      "logo": "",
+      "picture": "https://api.deezer.com/playlist/4696861764/image",
+      "picture_small": "https://www.cnews.cz/wp-content/uploads/2018/09/shazam-flat-logo-1600.png",
+      "picture_medium": "https://e-cdns-images.dzcdn.net/images/misc/853a37e998cc06074bfa3fb61c368ef2/134x264-000000-80-0-0.jpg",
+      "picture_big": "https://www.cnews.cz/wp-content/uploads/2018/09/shazam-flat-logo-1600.png",
+      "picture_xl": "https://www.cnews.cz/wp-content/uploads/2018/09/shazam-flat-logo-1600.png",
+      "checksum": "f5a00d10be398f6fab7f269f0ba0b3d8",
+      "tracklist": "https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/master/tracks",
+      "creation_date": "2018-07-23 13:50:03",
+      "user": {
+        "id": 1990304482,
+        "name": "",
+        "tracklist": "https://api.deezer.com/user/1990304482/flow",
+        "type": "user"
+      },
+      "type": "playlist"
+    },
     {
       "id": shazam,
       "title": "ДОРА",
