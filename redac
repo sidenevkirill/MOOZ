@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "id": kizaru,
+      "id": day,
       "title": "Дневной плейлист",
       "public": true,
       "nb_tracks": 21,
