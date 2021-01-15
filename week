@@ -1,7 +1,7 @@
 {
   "id": "4696861764",
-  "title": "Дневной плейлист",
-  "description": "обновлён сегодня",
+  "title": "Недельный плейлист",
+  "description": "обновлён в понедельник",
   "duration": 10460,
   "public": true,
   "is_loved_track": false,
@@ -12,7 +12,7 @@
   "share": "https://www.deezer.com/playlist/4696861764?utm_source=deezer&utm_content=playlist-4696861764&utm_term=0_1569846384&utm_medium=web",
   "picture": "https://api.deezer.com/playlist/4696861764/image",
   "picture_small": "https://sun9-52.userapi.com/impg/xaKc9eFz4VQXMDcElkY2aV9CNM-xoxPHtQKGwQ/AJX9h7PBnIc.jpg?crop=0,0,1,1&size=0x96&quality=95&sign=44b497f689e2e0266058a6246ae70bc8",
-  "picture_medium": "https://sun9-52.userapi.com/impg/xaKc9eFz4VQXMDcElkY2aV9CNM-xoxPHtQKGwQ/AJX9h7PBnIc.jpg?crop=0,0,1,1&size=0x96&quality=95&sign=44b497f689e2e0266058a6246ae70bc8",
+  "picture_medium": "https://sun9-42.userapi.com/impf/VtyIzwwR-HufkUhgfuWAggWK6vuFxUrCPCf8OQ/J1SN1b7hEZA.jpg?crop=0,0,1,1&size=0x96&quality=95&sign=f0273dd3c1554b5171cfbcb51f26e671",
   "picture_big": "https://sun9-52.userapi.com/impg/xaKc9eFz4VQXMDcElkY2aV9CNM-xoxPHtQKGwQ/AJX9h7PBnIc.jpg?crop=0,0,1,1&size=0x96&quality=95&sign=44b497f689e2e0266058a6246ae70bc8",
   "picture_xl": "https://sun9-52.userapi.com/impg/xaKc9eFz4VQXMDcElkY2aV9CNM-xoxPHtQKGwQ/AJX9h7PBnIc.jpg?crop=0,0,1,1&size=0x96&quality=95&sign=44b497f689e2e0266058a6246ae70bc8",
   "checksum": "f5a00d10be398f6fab7f269f0ba0b3d8",
