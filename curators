@@ -1,5 +1,27 @@
 {
   "data": [
+   {
+      "id": neomusic,
+      "title": "GANG MEDIA GROUP",
+      "public": true,
+      "nb_tracks": 21,
+      "link": "https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/master/4696861764",
+      "picture": "https://api.deezer.com/playlist/4696861764/image",
+      "picture_small": "https://cdn62.zvooq.com/pic?type=artist&id=99662297&size=600x600&ext=jpg",
+      "picture_medium": "https://sun3-11.userapi.com/s/v1/ig2/qLvUTLdN6X0TLA_-u9XMQBTDjZhetpWhMJgAL9LDkEJxpoS7Rxdd37o0KRswLUz106RZ7Im1ZpUhCnUz835BFqoL.jpg?size=200x0&quality=96&crop=60,57,456,456&ava=1",
+      "picture_big": "https://sun3-11.userapi.com/s/v1/ig2/qLvUTLdN6X0TLA_-u9XMQBTDjZhetpWhMJgAL9LDkEJxpoS7Rxdd37o0KRswLUz106RZ7Im1ZpUhCnUz835BFqoL.jpg?size=200x0&quality=96&crop=60,57,456,456&ava=1",
+      "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/b6fdd8f6ae6d49c4970e451db76046b8/1000x1000-000000-80-0-0.jpg",
+      "checksum": "f5a00d10be398f6fab7f269f0ba0b3d8",
+      "tracklist": "https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/master/tracks",
+      "creation_date": "2018-07-23 13:50:03",
+      "user": {
+        "id": 1,
+        "name": "поп-певица",
+        "tracklist": "https://api.deezer.com/user/1990304482/flow",
+        "type": "user"
+      },
+      "type": "playlist"
+    },
     {
       "id": neomusic,
       "title": "Neomusic",
