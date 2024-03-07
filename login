@@ -2,7 +2,7 @@
   "data": [ 
     { 
       "id": kizaru, 
-      "title": "Дневной плейлист", 
+      "title": "Дневной плйлист", 
       "public": true, 
       "nb_tracks": 21, 
       "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/kizaru", 
