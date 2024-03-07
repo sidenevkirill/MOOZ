@@ -1,4 +1,5 @@
-  {
+  "data": [ 
+    {
       "id": nurminskiy,
       "title": "Пацаны с улиц",
       "public": true,
